@@ -1,4 +1,4 @@
-#这个是我按照我的理解吧每一步都添加了注释的版本
+# 这个是我按照我的理解吧每一步都添加了注释的版本
 # Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks
 Codes for Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks
 
